@@ -1,11 +1,11 @@
-Hi, I'm @djanfelipe, a 27 years old brazilian test automator :nerd_face:.
+Hi, I'm @djanfelipe! A 30 yrs old Brazilian' Software Quality Analyst.
 
-My goal here is to share the knowledge I'm acquiring through my carreer :books:.
+My goal here is to learn & share the knowledge I'm acquiring through my carreer.
 
 The topics I'll try to cover here are:
-- Testing frameworks :hammer_and_wrench:;
-- Front-end basics :computer:;
-- Some scripting languages codes :scroll:;
-- Continuous Integration and others DevOps techniques :gear:; 
+- Testing frameworks;
+- Front-end basics;
+- Some scripting languages codes;
+- Continuous Integration and others DevOps techniques; 
 
 And that's it! I hope you all enjoy this profile.
