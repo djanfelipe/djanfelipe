@@ -1,4 +1,4 @@
-Hi, I'm @djanfelipe! A 30 yrs old Brazilian' Software Quality Analyst.
+Hi, I'm @djanfelipe! A Brazilian' Software Quality Analyst.
 
 My goal here is to learn & share the knowledge I'm acquiring through my carreer.
 
